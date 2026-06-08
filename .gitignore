@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# ROS
+build/
+install/
+log/
+
+# Linux
+*.swp
